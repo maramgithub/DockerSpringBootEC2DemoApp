@@ -8,6 +8,6 @@ public class CourseController {
 
     @GetMapping("/addCourse")
     public String addCourse() {
-        return "Course added successfully";
+        return "Course added successfully-jenkins";
     }
 }
